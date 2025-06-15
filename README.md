@@ -11,7 +11,6 @@ A lightweight local development environment for [OpenHands](https://github.com/A
 - [Quick Start](#quick-start)
 - [Initialize the Environment](#initialize-the-environment)
 - [Usage](#usage)
-- [License](#license)
 
 ---
 
